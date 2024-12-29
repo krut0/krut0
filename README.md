@@ -1,10 +1,6 @@
-hello!
+hello
 -
-im krutoy.
-
-- pronouns: he/him
-- favorite color: yellow
-- i love windows phone metro
+i am krutoy
 
 <!---
 krut0/krut0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
